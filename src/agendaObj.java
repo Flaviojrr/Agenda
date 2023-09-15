@@ -35,7 +35,7 @@ public class agendaObj {
 
     @Override
     public String toString() {
-        return "Contatos" +
+        return "Contato:" +
                 "Nome=" + nome +
                 ", Idade=" + idade +
                 ", Altura=" + altura+
